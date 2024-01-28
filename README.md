@@ -9,7 +9,7 @@ Submissions from Global Game Jam IIIT SriCity Site
 - Fork this repository to your personal GitHub account to make changes
 - Submit a pull request once you are done
   
-#### For GitHub web interface user
+#### For GitHub web interface users
 
 
 - Add a new folder with your team name
