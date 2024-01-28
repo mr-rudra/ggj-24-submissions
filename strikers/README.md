@@ -2,9 +2,9 @@
 
 ## Team Members
 
-*Rudra Pratap Singh
-*Himanshu Upadhyay
-*Sahil Goyat
+* Rudra Pratap Singh
+* Himanshu Upadhyay
+* Sahil Goyat
 
 ## Project Discription
 
